@@ -17,4 +17,7 @@ Um compilado das funcionalidades que eu participei como desenvolvedor na platafo
   <img src="casa_avatar.jpg" width="45%" />
   <img src="guarda_roupa.jpg" width="45%" />
   <img src="shopping.jpg" width="45%" />
+  <img src="flappyduca.jpg" width="45%" />
+  <img src="runnerduca.jpg" width="45%" />
+  <img src="travessia.jpg" width="45%" />
 </p>

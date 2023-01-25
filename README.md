@@ -6,4 +6,15 @@ Um compilado das funcionalidades que eu participei como desenvolvedor na platafo
 * Programado em C#
 
 # Vídeo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HgFczgJuEak/0.jpg)](https://www.youtube.com/watch?v=HgFczgJuEak)
+[![https://www.youtube.com/watch?v=HgFczgJuEak](https://img.youtube.com/vi/HgFczgJuEak/0.jpg)](https://www.youtube.com/watch?v=HgFczgJuEak)
+
+
+# Screenshots
+
+<p align="left">
+  <img src="portugues.jpg" width="45%" />
+  <img src="perfil.jpg" width="45%" />
+  <img src="casa_avatar.jpg" width="45%" />
+  <img src="guarda_roupa.jpg" width="45%" />
+  <img src="shopping.jpg" width="45%" />
+</p>
